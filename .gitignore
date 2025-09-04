@@ -1,0 +1,29 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---- MATLAB ----
+*.asv
+*.autosave
+slprd/
+codegen/
+
+# ---- Java ----
+*.class
+*.jar
+target/
+
+# ---- IDE ----
+.idea/
+*.iml
+out/
+.vscode/
+
+# ---- OS ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+~$*
